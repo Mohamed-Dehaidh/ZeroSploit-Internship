@@ -145,7 +145,7 @@ x.x.x.x subdomain.mohamedhassan.com
 
 ### 7. Test the Setup
 
-Open your browser and navigate to "http://subdomain.mohamedhassan.com". You should see the "Hello World" message.
+Open your browser and navigate to "http://<domain-name>". You should see the "Hello World" message.
 <div align="center">
   <img src="hello-world.png" alt="My Image" width="500">
 </div>
