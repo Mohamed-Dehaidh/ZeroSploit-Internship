@@ -1,16 +1,4 @@
 # Task01-K8s: Kubernetes Deployment, Service, and Ingress
-### Steps to Save the File:
-
-1. Copy the content above.
-2. Open a text editor (e.g., Notepad, VS Code, or any other editor).
-3. Paste the content into the editor.
-4. Save the file as `README.md`.
-
-Alternatively, you can use the following command in a terminal to create the file directly:
-
-```bash
-cat <<EOT > README.md
-# Task01-K8s: Kubernetes Deployment, Service, and Ingress
 
 This task demonstrates how to create a Kubernetes deployment, service, and ingress to expose a simple "Hello World" application.
 
