@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongoex-clusterip
+spec:
+  selector:
+    app: mongoex-deployment
+  ports:
+    - protocol: TCP
+      port: 8081
+      targetPort: 8081
