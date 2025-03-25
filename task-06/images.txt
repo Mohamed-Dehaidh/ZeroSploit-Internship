@@ -1,0 +1,4 @@
+App		  ghcr.io/dfir-iris/iriswebapp_app:latest
+App worker	  ghcr.io/dfir-iris/iriswebapp_app:latest
+PostgreSQL	  ghcr.io/dfir-iris/iriswebapp_db:latest
+RabbitMQ 	  rabbitmq:3-management-alpine
